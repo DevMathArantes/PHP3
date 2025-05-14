@@ -1,1 +1,5 @@
 1- O comando para terminal: php -a, abre uma linha de comandos php no terminal
+
+2- Artigo sobre getters e setters: https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters
+
+3- Link com método mágicos: https://dias.dev/2023-08-11-metodos-magicos-php/
